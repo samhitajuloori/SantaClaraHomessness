@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
           <div className="text-center md:text-right">
             <p className="text-xs">
-              &copy;  295B project - 2025 Spring
+              &copy;  295B project - 2025 Spring - SJSU
             </p>
             
           </div>
