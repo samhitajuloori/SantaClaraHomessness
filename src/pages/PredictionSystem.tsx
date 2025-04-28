@@ -51,7 +51,7 @@ const PredictionSystem = () => {
       </div>
       <Card className="mb-8">
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-xl font-semibold">At-Risk Individuals</h2>
+          <h2 className="text-xl font-semibold">Top 50 At-Risk Individuals</h2>
         </div>
         <div className="overflow-x-auto">
           {loading ? (
